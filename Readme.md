@@ -1,4 +1,4 @@
-# Exploring Potential Impacts of Temperature and Precipitation on River Height
+# Exploring the Potential Impacts of Temperature and Precipitation on River Height
 # Tyler Dunn
 
 # Hypothesis:
